@@ -1,0 +1,28 @@
+user login / crating acc 
+
+selecting movie : 
+
+get halls , get theaters , get movies 
+
+
+boking seat  :
+
+post details 
+
+checking avalability 
+
+subractig seat 
+
+payment 
+
+success 
+
+theater adding :
+
+post theater , post halls 
+
+movie adding 
+
+post movie , post movie in theaters , adding halls for this movie 
+
+
